@@ -28,8 +28,9 @@ permalink: pretty
 markdown: kramdown
 # theme: jekyll-mr-theme
 
-source: "./_src"
-destination: "./docs"
+source: "./src"
+destination: "../simonwoerpel.github.io"
+keep_files: [".git", "LICENSE"]
 
 sass:
   style: compressed
