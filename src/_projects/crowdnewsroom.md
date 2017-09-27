@@ -9,6 +9,8 @@ ordering: 2
 
 It was used at correctiv.org for a crowd-driven [investigation for savings banks](https://correctiv.org/recherchen/sparkassen/) in cooperation with the [Frankfurter Allgemeine Zeitung](http://www.faz.net/aktuell/finanzen/sparkassen-check/).
 
+![example for a user submission form](/img/projects/crowdnewsroom/sparkassen.png)
+
 Another investigation with this toolbox took place in early 2017 in Dortmund, Germany. Together with the [RuhrNachrichten](http://ruhrnachrichten.de) we did an investigation about public schools. [Pupils, their parents and teachers collected data about cancelled lessons](http://unterrichtsausfall-check.de).
 
 The software itself consists of different tools and apps that can be combined independently. It's written in [python](https://python.org) and powered by [the django framework](https://djangoproject.com).
