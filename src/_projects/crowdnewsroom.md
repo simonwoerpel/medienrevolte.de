@@ -15,6 +15,6 @@ Another investigation with this toolbox took place in early 2017 in Dortmund, Ge
 
 The software itself consists of different tools and apps that can be combined independently. It's written in [python](https://python.org) and powered by [the django framework](https://djangoproject.com).
 
-The **CrowdNewsroom** won (among another project from correctiv.org) the german ["Reporterpreis" in category innovation.](http://www.reporter-forum.de/index.php?id=229)
+The **CrowdNewsroom** won (among another project from correctiv.org) the german ["Reporterpreis" in category innovation.](http://www.reporter-forum.de/index.php?id=229) and was shortlisted for ["Ernst-Schneider-Preis 2016"](http://ernst-schneider-preis.de/shortlist-ernst-schneider-preis-2016/) with the sparkassen investigation. This investigation also won the ["PSD Journalistenpreis"](https://www.psd-bank.de/Spezialseiten/News.c381/d12.html).
 
 ![example for a user submission form](/img/projects/crowdnewsroom/unterrichtsausfall.png)
