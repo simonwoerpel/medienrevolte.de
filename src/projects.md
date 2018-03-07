@@ -7,6 +7,8 @@ menu_title: projects
 
 we @ correctiv.org love to share our data & code with others. [this are some github-repos with data visualizations](https://github.com/correctiv?utf8=%E2%9C%93&q=viz&type=&language=)
 
+If you want to see how we wrangle data here are some [jupyter notebooks](https://github.com/correctiv?utf8=%E2%9C%93&q=notebook&type=&language=).
+
 {% if site.projects %}
 {% assign projects = site.projects | sort: 'ordering' %}
 
