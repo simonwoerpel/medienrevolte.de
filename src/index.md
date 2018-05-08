@@ -7,6 +7,8 @@ permalink: /
 
 I work as a data journalist and newsroom hacker at <a href="https://correctiv.org">correctiv.org</a>, a journalism non-profit based in Germany.
 
+in case you are interested, [checkout my resume](https://github.com/simonwoerpel/CV).
+
 [some of my work / projects](/projects/)
 
 <h2 class="schnickschnack">that's meeeeee ---></h2>
