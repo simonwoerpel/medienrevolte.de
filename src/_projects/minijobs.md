@@ -2,14 +2,19 @@
 title: minijobs dataviz
 external_url: https://correctiv.org/recherchen/arbeit/
 teaser: A collection of data visualisations about mini-jobbers in germany.
-ordering: 1
+ordering: 2
 ---
 
-[Tania Röttger](https://twitter.com/TanRoet) from correctiv.org and Open-News fellow [Sandhya Kambhampati](https://twitter.com/sandhya__k) collected tons of datapoints about mini-jobbers (low wage, no benefits) in germany.
+[Tania Röttger](https://twitter.com/TanRoet) from correctiv.org and Open-News
+fellow [Sandhya Kambhampati](https://twitter.com/sandhya__k) collected tons of
+datapoints about mini-jobbers (low wage, no benefits) in germany.
 
 I did some maps and bars to show the main aspects of the data.
 
-For example [this interactive "double-map"](https://www.mapbox.com/mapbox-gl-js/api/) that compares the relative amount of women working in minijobs against men. This was done with [riotjs](http://riotjs.com) and [d3js](http://d3js.org).
+For example [this interactive
+"double-map"](https://www.mapbox.com/mapbox-gl-js/api/) that compares the
+relative amount of women working in minijobs against men. This was done with
+[riotjs](http://riotjs.com) and [d3js](http://d3js.org).
 
 ![show the same map two times to compare genders](/img/projects/minijobs/double-map.png)
 

@@ -5,7 +5,8 @@ permalink: /
 
 # Hi, I'm Simon.
 
-I work as a data journalist and newsroom hacker at <a href="https://correctiv.org">correctiv.org</a>, a journalism non-profit based in Germany.
+i do ***computer assisted investigative reporting magic*** at
+[CORRECTIV](https://correctiv.org), a journalism non-profit based in Germany.
 
 in case you are interested, [checkout my resume](https://github.com/simonwoerpel/CV).
 
