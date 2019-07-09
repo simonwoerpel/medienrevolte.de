@@ -2,7 +2,7 @@
 title: minijobs dataviz
 external_url: https://correctiv.org/recherchen/arbeit/
 teaser: A collection of data visualisations about mini-jobbers in germany.
-ordering: 2
+ordering: 99
 ---
 
 [Tania Röttger](https://twitter.com/TanRoet) from correctiv.org and Open-News

@@ -2,7 +2,7 @@
 title: CrowdNewsroom
 external_url: https://crowdnewsroom.org
 teaser: An award-winning platform to provide crowd-based investigations for correctiv.org
-ordering: 3
+ordering: 100
 ---
 
 **since 2018:** The CrowdNewsroom development is taken over by the [CORRECTIV

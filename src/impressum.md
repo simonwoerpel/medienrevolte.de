@@ -6,8 +6,7 @@ permalink: /impressum/
 ---
 
 Simon Wörpel<br>
-Turmstr. 8<br>
-45127 Essen
+Berlin
 
 ## contact
 
@@ -20,7 +19,9 @@ pgp fingerprint: `4AAE B223 E3D0 9119 9ABE FEE8 E639 20A4 2EFF A5E4`
 
 ## credits
 
-The portrait photo was taken by [Ivo Mayr](http://ivomayr.com) and redrawn by [Jan Michael Richter](http://www.jamiri.com).
+The portrait photo was taken by [Ivo Mayr](http://ivomayr.com).
+
+[Jan Michael Richter](http://www.jamiri.com) painted me.
 
 Another portrait photo was taken by Josephine Pabst.
 

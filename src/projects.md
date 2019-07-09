@@ -3,13 +3,20 @@ title: Projects
 menu_title: projects
 ---
 
+## CORRECTIV
+
+for 4 1/2 years i worked as an investigative data journalist at the german
+non-profit [CORRECTIV](https://correctiv.org)
+
+i was involved in many data-/document-driven projects (see below) and build
+[some software](/software/) for the needs within an investigative newsroom
+
 **`>>>>` [check out my publications on
 correctiv.org](https://correctiv.org/correctiv/redaktion/team/simon-woerpel/)
 `<<<<`**
 
-we @ correctiv.org love to share our data & code with others. [this are some
-github-repos with data
-visualizations](https://github.com/correctiv?utf8=%E2%9C%93&q=viz&type=&language=)
+we @ CORRECTIV love to share our data & code with others.
+[this are some github-repos with data visualizations](https://github.com/correctiv?utf8=%E2%9C%93&q=viz&type=&language=)
 
 If you want to see how we wrangle data here are some [jupyter
 notebooks](https://github.com/correctiv?utf8=%E2%9C%93&q=notebook&type=&language=).
@@ -17,7 +24,7 @@ notebooks](https://github.com/correctiv?utf8=%E2%9C%93&q=notebook&type=&language
 {% if site.projects %}
 {% assign projects = site.projects | sort: 'ordering' %}
 
-## Here are a few in-depth descriptions about projects I worked on:
+### Here are a few in-depth descriptions about projects I worked on during my time at CORRECTIV:
 
   <ul>
   {% for project in projects %}
@@ -33,7 +40,7 @@ notebooks](https://github.com/correctiv?utf8=%E2%9C%93&q=notebook&type=&language
   </ul>
 {% endif %}
 
-### and here is some legacy stuff:
+### and here is some legacy stuff (not related to CORRECTIV):
 
 - [Simple Open Data Portal](https://essen.openruhr.de/) – the city of "Essen" publishes some open data sets but not in a proper way. we from the [OK Lab Ruhrgebiet](https://codefor.de/ruhrgebiet/) fixed that. --> [github](https://github.com/CodeforRuhrgebiet/offenes-datenportal)
 - [conflicts of interests resolver](https://coi.medienrevolte.de/) – making possible conflicts of interests in open access papers searchable. this was done during a [gen hackathon](https://www.globaleditorsnetwork.org/programmes/editors-lab/sz-editors-lab/)

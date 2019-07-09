@@ -1,8 +1,8 @@
 ---
 title: '#CumExFiles'
 external_url: https://cumex-files.com
-teaser:
-ordering: 1
+teaser: Making a big cross-border investigation technically happen
+ordering: 90
 ---
 
 ## A CROSS-BORDER INVESTIGATION
@@ -18,7 +18,13 @@ previously thought, affecting nearly all of the biggest economies in Europe. Is
 this the heist of the century?
 
 **me:**
-- making a big bunch of (really huge) confidential documents searchable and securely accessible for 38 journalists from 12 countries to work collaboratively on this investigation. me & [CORRECTIV nerds](https://correctiv.org/nerds/) also provided security trainings and support for the colleagues.
+- making a big bunch of (really huge) confidential documents searchable and
+  securely accessible for 38 journalists from 12 countries to work
+  collaboratively on this investigation. me & [CORRECTIV Nerds](https://correctiv.org/nerds/)
+  also set up the secure infrastructure and provided security trainings and
+  support for the colleagues.
+- building the [internal software CORRECTIV](/software/boromeo/) uses to handle
+  these kind of document-based investigations
 - building [the website & longread](https://cumex-files.com) (based on some contributions of others)
 
 [check out some video about the technology](https://cumex-files.com/en/#project)
