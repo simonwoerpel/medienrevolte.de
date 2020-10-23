@@ -9,7 +9,7 @@ for 4 1/2 years i worked as an investigative data journalist at the german
 non-profit [CORRECTIV](https://correctiv.org)
 
 i was involved in many data-/document-driven projects (see below) and build
-[some software](/software/) for the needs within an investigative newsroom
+tools for the needs within an investigative newsroom
 
 **`>>>>` [check out my publications on
 correctiv.org](https://correctiv.org/correctiv/redaktion/team/simon-woerpel/)

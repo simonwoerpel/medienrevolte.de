@@ -50,11 +50,6 @@ defaults:
       type: projects
     values:
       layout: project
-  -
-    scope:
-      type: software
-    values:
-      layout: software
 
 
 collections:
