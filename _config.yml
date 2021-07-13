@@ -29,7 +29,7 @@ markdown: kramdown
 # theme: jekyll-mr-theme
 
 source: "./src"
-destination: "../simonwoerpel.github.io"
+destination: "./_site"
 keep_files: [".git", "LICENSE"]
 
 sass:
