@@ -11,11 +11,14 @@ or whatever.
 Simon is an independent investigative data journalist, researcher and leak
 librarian. He is specialized in documents processing, data engineering and data
 analysis. He works on tools that empower computer assisted investigative
-reporting for collaborative teams. From 2015 to mid 2019, Simon worked at
-CORRECTIV (https://correctiv.org), an investigative not for profit newsroom
-based in Germany. There he built document databases for collaborative
-investigations like like "The CumEx Files" (https://cumex-files.com) and "Grand
-Theft Europe" (https://grandthefteurope.com).
+reporting for cross-border collaborative teams. His clients currently include
+Norddeutscher Rundfunk (NDR), Süddeutsche Zeitung and Open Knowledge Foundation
+Germany. From 2015 to mid 2019, Simon worked at CORRECTIV
+([https://correctiv.org](https://correctiv.org)), an investigative not for
+profit newsroom based in Germany. There he built document databases for
+collaborative investigations like "The CumEx Files"
+([https://cumex-files.com](https://cumex-files.com)) and "Grand Theft Europe"
+([https://grandthefteurope.com](https://grandthefteurope.com)).
 
 His work at CORRECTIV was awarded with the Grimme Online Award (2019), the
 Helmut Schmidt Journalistenpreis (2019), the Otto Brenner Preis für kritischen
@@ -30,14 +33,16 @@ In his secret life he is a musician.
 
 ## german
 
-Simon ist unabhängier investigativer Datenjournalist, Rechercheur und
+Simon ist unabhängiger investigativer Datenjournalist, Rechercheur und
 Leak-Bibliothekar. Er ist spezialisiert auf Dokumenten-Verarbeitung,
 Daten-Engineering und -Analyse und entwickelt technische Tools & Konzepte, die
-Leak-basierte kollaborative Recherchen ermöglichen. Simon arbeitete von 2015
-bis Mitte 2019 beim gemeinnützigen Recherchezentrum CORRECTIV
+Leak-basierte kollaborative Recherchen ermöglichen. Simon arbeitet(e) frei u.a.
+für NDR, Süddeutsche Zeitung und die Open Knowledge Foundation Deutschland. Von
+2015 bis Mitte 2019 arbeitete er beim gemeinnützigen Recherchezentrum CORRECTIV
 (https://correctiv.org). Dort baute er zuletzt Dokumenten-Datenbanken für die
-europaweiten Recherchen "Grand Theft Europe" (https://grand-theft-europe.com)
-und "CumEx Files" (https://cumex-files.com).
+europaweiten Recherchen "Grand Theft Europe"
+([https://grandthefteurope.com](https://grandthefteurope.com)) und
+"CumEx Files" ([https://cumex-files.com](https://cumex-files.com)).
 
 Seine Arbeiten bei CORRECTIV wurden unter anderem mit dem Grimme Online Award
 (2019), dem Helmut Schmidt Journalistenpreis (2019), dem Otto Brenner Preis für

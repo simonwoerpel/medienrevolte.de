@@ -45,15 +45,3 @@ defaults:
       show_menu: true
       permalink: /:path/:basename/
       layout: page
-  -
-    scope:
-      type: projects
-    values:
-      layout: project
-
-
-collections:
-    projects:
-      output: true
-    software:
-      output: true
